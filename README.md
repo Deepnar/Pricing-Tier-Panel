@@ -6,13 +6,13 @@ This repository showcases a responsive **Pricing Tiers Panel** built with **HTML
 
 ---
 
-## 🌐 Live Preview
+##  Live Preview
 
-[👉 View Pricing Panel Live](https://deepnar.github.io/pricing_plan_panel/)
+[🌐 View Pricing Panel Live](https://deepnar.github.io/pricing_plan_panel/)
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Responsive design  
 - Clean, modern layout  
@@ -25,7 +25,7 @@ This repository showcases a responsive **Pricing Tiers Panel** built with **HTML
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -33,7 +33,7 @@ This repository showcases a responsive **Pricing Tiers Panel** built with **HTML
 
 ---
 
-## 📌 Status
+##  Status
 
 > **Completed as part of my HTML & CSS learning.** Will explore JavaScript enhancements in future projects.
 
