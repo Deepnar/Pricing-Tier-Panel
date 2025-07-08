@@ -8,7 +8,7 @@ This repository showcases a responsive **Pricing Tiers Panel** built with **HTML
 
 ##  Live Preview
 
-[🌐 View Pricing Panel Live](https://deepnar.github.io/pricing_plan_panel/)
+[🌐 View Pricing Panel Live](https://deepnar.github.io/Pricing-Tier-Panel/)
 
 ---
 
